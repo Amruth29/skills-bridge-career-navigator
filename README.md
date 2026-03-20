@@ -1,6 +1,6 @@
 # Skill Bridge CLI
 
-🎥 Project Demo Link: https://youtu.be/YaAHWLOGwqQ
+🎥 Project Demo: https://youtu.be/YaAHWLOGwqQ
 
 ✨ A practical CLI that helps users compare their current skills with a target role and get a clear, step-by-step learning roadmap.
 
@@ -66,6 +66,27 @@ How did you verify the suggestions?
 One suggestion rejected or changed:
 - I rejected the idea that role + plain skill names were enough.
 - I moved to category-aware mapping (core, frontend, backend, security, tools, concepts) so the guidance is easier to understand and more useful.
+
+---
+
+## 🛠️ Technical Stack Used
+
+Programming Languages:
+- JavaScript (Node.js runtime)
+
+Core Libraries and Tools:
+- dotenv: Loads environment variables from .env
+- pdf-parse: Extracts text from PDF resumes
+- jest: Unit and integration testing
+
+AI Model and Integration:
+- Gemini API (`gemini-2.5-flash`) for AI-guided roadmap generation
+- Structured fallback engine when AI is unavailable or rate-limited
+- Retry + parsing + cache-based reliability layer around AI calls
+
+Data and Project Assets:
+- Internal role and skills catalog (`data/jobs.json`)
+- Resume sample/test assets for parser validation
 
 ---
 
@@ -173,9 +194,27 @@ This is helpful during development, demos, and troubleshooting.
 
 ---
 
+## 🔮 Potential Future Enhancements
+
+- Build a web dashboard (in addition to CLI) for broader usability
+- Add persistent user profiles and progress history
+- Introduce confidence scoring for skill-gap and readiness estimates
+- Improve roadmap personalization using user goals, available time, and learning pace
+- Add project/course recommendations linked to each missing skill
+- Add export options for reports (PDF/CSV)
+- Expand role taxonomy with more domains and seniority levels
+- Add authentication and cloud sync for multi-device continuity
+- Add observability metrics for API usage, cache hit rates, and fallback frequency
+
+---
+
 ## 🧪 Commands
 
 ```bash
 npm start
 npm test
 ```
+
+
+
+
