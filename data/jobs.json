@@ -1,0 +1,149 @@
+[
+  {
+    "role": "Backend Developer",
+    "skillCategories": {
+      "core": ["Node.js", "Express"],
+      "database": ["MongoDB", "PostgreSQL"],
+      "architecture": ["REST API", "Authentication", "System Design Basics"],
+      "devops": ["Git", "Docker"]
+    }
+  },
+  {
+    "role": "Frontend Developer",
+    "skillCategories": {
+      "core": ["HTML", "CSS", "JavaScript", "React"],
+      "tools": ["Webpack", "Git"],
+      "concepts": ["DOM Manipulation", "Responsive Design"],
+      "advanced": ["TypeScript"]
+    }
+  },
+  {
+    "role": "Full Stack Developer",
+    "skillCategories": {
+      "frontend": ["HTML", "CSS", "JavaScript", "React"],
+      "backend": ["Node.js", "Express"],
+      "database": ["MongoDB"],
+      "concepts": ["REST API", "State Management (Redux)", "Deployment"],
+      "tools": ["Git"]
+    }
+  },
+  {
+    "role": "DevOps Engineer",
+    "skillCategories": {
+      "core": ["Docker", "Kubernetes", "AWS"],
+      "cicd": ["Jenkins", "Git"],
+      "infrastructure": ["CI/CD", "Infrastructure as Code"],
+      "advanced": ["Terraform", "Prometheus", "Grafana"]
+    }
+  },
+  {
+    "role": "Data Scientist",
+    "skillCategories": {
+      "core": ["Python", "Pandas", "NumPy"],
+      "ml": ["Machine Learning", "TensorFlow"],
+      "tools": ["Tableau", "SQL"],
+      "concepts": ["Statistics", "Data Cleaning", "Exploratory Data Analysis"]
+    }
+  },
+  {
+    "role": "QA Engineer",
+    "skillCategories": {
+      "automation": ["Selenium", "Test Automation"],
+      "tools": ["JIRA", "Git"],
+      "languages": ["Python"],
+      "concepts": ["Manual Testing", "API Testing", "CI/CD Testing"]
+    }
+  },
+  {
+    "role": "Mobile Developer",
+    "skillCategories": {
+      "crossplatform": ["React Native", "Flutter"],
+      "native": ["Swift", "Kotlin"],
+      "architecture": ["REST API", "Mobile UI/UX"],
+      "tools": ["Git"]
+    }
+  },
+  {
+    "role": "Machine Learning Engineer",
+    "skillCategories": {
+      "core": ["Python", "Scikit-learn"],
+      "deeplearning": ["TensorFlow", "PyTorch"],
+      "tools": ["Git", "SQL"],
+      "concepts": ["Deep Learning", "Statistical Analysis"],
+      "advanced": ["Model Deployment", "MLOps"]
+    }
+  },
+  {
+    "role": "Cloud Architect",
+    "skillCategories": {
+      "platforms": ["AWS", "Azure", "Google Cloud"],
+      "containerization": ["Docker", "Kubernetes"],
+      "architecture": ["Infrastructure as Code", "Networking", "Security"],
+      "advanced": ["Cost Optimization", "Scalability Design"]
+    }
+  },
+  {
+    "role": "Security Engineer",
+    "skillCategories": {
+      "core": ["Network Security", "Cryptography"],
+      "tools": ["Linux", "Python"],
+      "security": ["Penetration Testing", "Vulnerability Assessment", "OWASP Top 10"],
+      "advanced": ["SSL/TLS", "Threat Modeling"]
+    }
+  },
+  {
+    "role": "Database Administrator",
+    "skillCategories": {
+      "databases": ["SQL", "MongoDB", "PostgreSQL", "MySQL"],
+      "tools": ["Linux", "Git"],
+      "administration": ["Backup & Recovery", "Performance Tuning"],
+      "advanced": ["Query Optimization", "Indexing"]
+    }
+  },
+  {
+    "role": "Systems Administrator",
+    "skillCategories": {
+      "core": ["Linux", "Windows Server"],
+      "cloud": ["AWS"],
+      "scripting": ["Bash"],
+      "concepts": ["Networking", "Active Directory", "Virtualization"],
+      "advanced": ["Monitoring", "Security Basics"]
+    }
+  },
+  {
+    "role": "UI/UX Designer",
+    "skillCategories": {
+      "tools": ["Figma", "Adobe XD"],
+      "process": ["User Research", "Wireframing", "Prototyping"],
+      "design": ["Design Thinking", "Responsive Design"],
+      "advanced": ["Usability Testing", "Accessibility"]
+    }
+  },
+  {
+    "role": "Product Manager",
+    "skillCategories": {
+      "core": ["Product Strategy", "Roadmapping"],
+      "analytics": ["User Analytics", "A/B Testing"],
+      "tools": ["JIRA", "SQL"],
+      "advanced": ["Stakeholder Management", "Agile Methodologies"]
+    }
+  },
+  {
+    "role": "Business Analyst",
+    "skillCategories": {
+      "core": ["SQL", "Excel"],
+      "visualization": ["Tableau", "JIRA"],
+      "analysis": ["Requirements Gathering", "Process Mapping"],
+      "advanced": ["Data Analysis", "BPMN"]
+    }
+  },
+  {
+    "role": "Solutions Architect",
+    "skillCategories": {
+      "core": ["AWS", "System Design"],
+      "containerization": ["Docker", "Kubernetes"],
+      "architecture": ["Cloud Architecture", "Microservices"],
+      "advanced": ["Scalability", "Security Architecture"]
+    }
+  }
+]

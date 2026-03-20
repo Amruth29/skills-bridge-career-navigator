@@ -1,0 +1,57 @@
+John Doe
+john.doe@email.com | +1-234-567-8900 | LinkedIn Profile
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 5+ years of experience in web application development. Proficient in JavaScript, React, Node.js, and MongoDB. Proven track record of delivering scalable, maintainable code and collaborating with cross-functional teams.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Python, C++, Java
+Frontend Technologies: React, HTML, CSS, Redux, Webpack
+Backend Technologies: Node.js, Express, Django
+Databases: MongoDB, PostgreSQL, MySQL, Redis
+DevOps & Cloud: Docker, AWS, Git, GitHub
+Tools & Platforms: Postman, JIRA, Linux, VS Code, Git
+
+PROFESSIONAL EXPERIENCE
+
+Senior Full Stack Developer | Tech Company Inc. | Jan 2021 - Present
+• Led development of microservices architecture using Node.js and Docker
+• Implemented REST API endpoints with Express and integrated with MongoDB
+• Designed and optimized PostgreSQL databases for high-throughput applications
+• Mentored junior developers and conducted code reviews
+• Reduced deployment time by 40% using Docker and CI/CD pipelines with Git
+
+Full Stack Developer | StartUp XYZ | Jun 2019 - Dec 2020
+• Developed responsive web applications using React and Redux
+• Built backend services with Node.js and Express
+• Integrated authentication systems and REST APIs
+• Collaborated with product team using JIRA for project management
+• Implemented responsive design for mobile-first applications
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology | 2019
+
+CERTIFICATIONS & TRAINING
+• AWS Solutions Architect Associate
+• Docker Certified Associate
+• Certified Scrum Master (CSM)
+• LinkedIn Learning: Advanced React Patterns
+
+PROJECTS
+Personal Portfolio Website
+• Built using React, Node.js, and MongoDB
+• Deployed on AWS EC2 with Docker
+• Implemented authentication using JWT
+
+E-commerce Platform
+• Full-stack development using MERN stack
+• Integrated Stripe payment gateway using REST API
+• Optimized database queries in PostgreSQL
+
+ADDITIONAL SKILLS
+• Microservices Architecture
+• System Design Basics
+• Git version control and GitHub collaboration
+• REST API design and implementation
+• Responsive design and mobile optimization
