@@ -1,5 +1,7 @@
 # Skill Bridge CLI
 
+🎥 Project Demo Link: https://youtu.be/YaAHWLOGwqQ
+
 ✨ A practical CLI that helps users compare their current skills with a target role and get a clear, step-by-step learning roadmap.
 
 ---
